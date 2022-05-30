@@ -1,0 +1,13 @@
+{
+  "name": "CIS550_Final_Project",
+  "version": "1.0.0",
+  "description": "Music Recommendations and Analysis",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext .js"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^7.12.3"
+  }
+}
