@@ -20,8 +20,8 @@ This app serves as an interactive resource for finding information about music a
 #### Recommendations page:
 - Available to the users after an item is accessed from Search results. Users are able to manipulate the attributes that are submitted to the recommendation algorithm based on their preferences. They can also choose which attributes the algorithm should include or disregard. 
 
-#### Artist / Album Modals:
-- Can be accessed across the application. They offer information to about albums and artists, including the ability to see song attributes & statistics, play snippets and see album art.
+#### Modals:
+- Can be accessed across the application and offer information about songs, albums, and artists. They allow the user to play song snippets, view album art, and see relevant attributes & statistics. 
 
 <br />
 
