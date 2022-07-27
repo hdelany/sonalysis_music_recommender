@@ -17,10 +17,11 @@ This app serves as an interactive resource for finding information about music a
 - Presents an abbreviated set of genres and song traits, which when selected, populate groupings of top albums based on Album of the Year data.
 
 <br />
+<br />
 
 ![Browse](readme/explore.gif)
 
-<br />
+
 <br />
 
 
@@ -28,10 +29,10 @@ This app serves as an interactive resource for finding information about music a
 - Returns results for keywords that represent either a song name, an album name, or an artist name. Exact matches, LIKE matches, and fuzzy matches are given back to the user in order of relevancy.
 
 <br />
+<br />
 
 ![Search](readme/search.gif)
 
-<br />
 <br />
 
 
@@ -39,10 +40,10 @@ This app serves as an interactive resource for finding information about music a
 - Available to the users after an item is accessed from Search results. Users are able to manipulate the attributes that are submitted to the recommendation algorithm based on their preferences. They can also choose which attributes the algorithm should include or disregard. 
 
 <br />
+<br />
 
 ![Recommendation](readme/recommendation.gif)
 
-<br />
 <br />
 
 
