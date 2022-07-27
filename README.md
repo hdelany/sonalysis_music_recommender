@@ -1,4 +1,4 @@
-# [Sonalysis.net](http://www.sonalysis.net/) Music Recommender
+# [Sonalysis.net](https://www.sonalysis.net/) Music Recommender
 
 <br />
 
