@@ -1,5 +1,7 @@
 # [Sonalysis.net](http://www.sonalysis.net/) Music Recommender
 
+<br />
+
 ## Team Members:
 - Andrew Cho
 - Holland Delany
