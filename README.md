@@ -11,6 +11,8 @@
 ## 1. Description of functionality
 This app serves as an interactive resource for finding information about music and discovering new music.Users are able to search a subset of Spotify's catalogue and find song recommendations based on dynamic custom algorithm that takes into account user preferences on a number of musical attributes.
 
+<br />
+
 #### Browse page: 
 - Presents an abbreviated set of genres and song traits, which when selected, populate groupings of top albums based on Album of the Year data.
 
@@ -18,6 +20,7 @@ This app serves as an interactive resource for finding information about music a
 
 ![Browse](readme/explore.gif)
 
+<br />
 <br />
 
 
@@ -29,6 +32,7 @@ This app serves as an interactive resource for finding information about music a
 ![Search](readme/search.gif)
 
 <br />
+<br />
 
 
 #### Recommendations page:
@@ -38,6 +42,7 @@ This app serves as an interactive resource for finding information about music a
 
 ![Recommendation](readme/recommendation.gif)
 
+<br />
 <br />
 
 
